@@ -11,9 +11,9 @@ import numpy as np
 from datasets import load_dataset
 
 # download the Vietnamese poetry dataset
-dataset_name = 'phamson02/vietnamese-poetry-corpus'
+dataset_name = 'truongpdd/vietnamese_poetry_story'
 dataset = load_dataset(dataset_name)
-data = "\n".join(dataset['train'][:]['content'])
+data = "\n".join(dataset['train'][:]['text'])
 
 print(f"length of dataset in characters: {len(data):,}")
 
