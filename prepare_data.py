@@ -11,7 +11,7 @@ import numpy as np
 from datasets import load_dataset
 
 # download the Vietnamese poetry dataset
-dataset_name = 'bigscience-data/roots_vi_vietnamese_poetry'
+dataset_name = 'phamson02/vietnamese-poetry-corpus'
 dataset = load_dataset(dataset_name)
 data = "\n".join(dataset['train'][:]['text'])
 
