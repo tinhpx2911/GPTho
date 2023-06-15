@@ -11,7 +11,7 @@ import numpy as np
 from datasets import load_dataset
 
 # download the Vietnamese poetry dataset
-dataset_name = 'truongpdd/vietnamese_poetry_story'
+dataset_name = 'truongpdd/luc-bat'
 dataset = load_dataset(dataset_name)
 data = "\n".join(dataset['train'][:]['text'])
 
