@@ -4,11 +4,17 @@ The dataset is about 87.6k rows of Vietnamese Six Eight poems from https://huggi
 
 # Result
 cuối đời mình cứ bơ vơ
+
 người buồn lặng lẽ thẫn thờ người đi
+
 ngồi nhìn ánh mắt xa gần
+
 bỗng dưng lại thấy tủi thân xa vời
+
 nhớ anh mà nhớ chơi vơi
+
 người xưa chung bước một đời sẽ tiêu
+
 
 ngày ngày ra ngõ ban thơ
 mọi khi gần gũi thế cơ thế này
